@@ -1,5 +1,13 @@
 package com.itoche.javapractice;
 
+/**
+ * @description:
+ * @projectName: javapractice
+ * @className: AbstractTest.java
+ * @author: hy.zhang
+ * @createTime: 2017年4月16日 下午8:33:20
+ * @version 1.0
+ */
 public abstract class AbstractTest extends TestInterfaceClass implements TestClass
 {
 	public void get()
