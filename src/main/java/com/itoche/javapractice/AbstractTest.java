@@ -1,7 +1,7 @@
 package com.itoche.javapractice;
 
 /**
- * @description:
+ * @description:测试Abstract类
  * @projectName: javapractice
  * @className: AbstractTest.java
  * @author: hy.zhang
@@ -12,7 +12,7 @@ public abstract class AbstractTest extends TestInterfaceClass implements TestCla
 {
 	public void get()
 	{
-		System.out.println("11");
+		System.out.println("Abstract类自己普通方法");
 	}
 
 	public abstract void get1();
@@ -32,13 +32,13 @@ class AbstractImpl extends AbstractTest
 	@Override
 	public void get1()
 	{
-		System.out.println("22");
+		System.out.println("AbstractImpl类继承Abstract类继承方法实现");
 	}
 
 	@Override
 	public void get2()
 	{
-		System.out.println("33");
+		System.out.println("AbstractImpl类继承Abstract类实现的接口TestClass继承方法实现");
 	}
 }
 
@@ -51,6 +51,6 @@ class TestInterfaceClass
 {
 	public void get3()
 	{
-		System.out.println("44");
+		System.out.println("AbstractImpl父类TestInterfaceClass方法");
 	}
 }
