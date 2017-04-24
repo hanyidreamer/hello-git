@@ -5,4 +5,6 @@ public class TestGit
 	private String branchString = "test branch!";
 	
 	private String branchString2 = "test master!";
+	
+	private String branchString1 = "test branch commit!";
 }
