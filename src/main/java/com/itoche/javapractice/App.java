@@ -1,8 +1,9 @@
 package com.itoche.javapractice;
 
 /**
- * Hello world!
- *
+ * @description:
+ * @author: zhanghanyi5
+ * @createTime: 2017/4/25 11:18
  */
 public class App extends AppParent
 {
