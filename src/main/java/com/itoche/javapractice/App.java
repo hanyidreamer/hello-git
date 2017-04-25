@@ -25,6 +25,13 @@ public class App extends AppParent
 
 	String name1 = "子类普通成员变量";
 
+	/**
+	 * @description:
+	 * @param 
+	 * @return
+	 * @author: zhanghanyi5
+	 * @createTime: 2017/4/25 11:42
+	 */
 	public static void main(String[] args)
 	{
 		System.out.println(App.count1);
