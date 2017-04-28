@@ -27,7 +27,7 @@ public class App extends AppParent
 
 	/**
 	 * @description:
-	 * @param 
+	 * @param
 	 * @return
 	 * @author: zhanghanyi5
 	 * @createTime: 2017/4/25 11:42
