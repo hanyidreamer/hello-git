@@ -16,6 +16,7 @@ public class HelloClient
 {
 	public static void main(String args[])
 	{
+
 		// Client服务启动器
 		ClientBootstrap bootstrap = new ClientBootstrap(new NioClientSocketChannelFactory(Executors.newCachedThreadPool(), Executors.newCachedThreadPool()));
 		// 设置一个处理服务端消息和各种消息事件的类(Handler)
