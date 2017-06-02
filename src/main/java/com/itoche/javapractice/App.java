@@ -6,7 +6,7 @@ package com.itoche.javapractice;
  */
 public class App extends AppParent
 {
-	static String count1 = "子类static变量";
+	static String count1 = "子类static变量 ";
 
 	static
 	{
