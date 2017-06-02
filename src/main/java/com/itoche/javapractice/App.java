@@ -10,7 +10,7 @@ public class App extends AppParent
 
 	static
 	{
-		System.out.println("子类static代码块");
+		System.out.println("子类static代码块idea");
 	}
 
 	public App()
