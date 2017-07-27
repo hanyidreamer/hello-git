@@ -21,6 +21,11 @@ public class ArrayBlockingQueueLearn
 			queue.put("1");
 			Object object = queue.take();
 			System.out.println(object.toString());
+
+			BlockingQueue<String> queue1 = new ArrayBlockingQueue<String>(1024);
+			queue1.put("1");
+			String string = queue1.take();
+			System.out.println(string);
 		}
 		catch (InterruptedException e)
 		{
