@@ -10,6 +10,7 @@ import java.lang.annotation.*;
 @Documented
 public @interface TestColor
 {
+
 	enum Color
 	{
 		BLUE, GREEN, RED
