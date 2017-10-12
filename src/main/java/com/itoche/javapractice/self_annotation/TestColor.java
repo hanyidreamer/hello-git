@@ -15,5 +15,6 @@ public @interface TestColor
 		BLUE, GREEN, RED
 	};
 
+
 	Color color() default Color.BLUE;
 }
