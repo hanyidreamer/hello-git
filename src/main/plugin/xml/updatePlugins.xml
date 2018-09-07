@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <plugin id="Pingan Code Plugin"
             url="https://github.com/hanyidreamer/hello-git/tree/master/src/main/plugin/idea-plugin.jar"
