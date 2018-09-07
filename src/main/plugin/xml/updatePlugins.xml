@@ -1,5 +1,4 @@
-<!DOCTYPE
-    "https://github.com/hanyidreamer/hello-git/tree/master/src/main/plugin/plugin.dtd">
+
     <plugins>
         <plugin id="Pingan Code Plugin" url="https://github.com/hanyidreamer/hello-git/tree/master/src/main/plugin/idea-plugin.jar" version="1.0"/>
     </plugins>

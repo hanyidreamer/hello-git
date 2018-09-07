@@ -5,3 +5,6 @@
                 plugin (#PCDATA)>
         <!ATTLIST
                 plugin id CDATA #REQUIRED url DATA #REQUIRED version CDATA #REQUIRED>]>
+
+        <!DOCTYPE
+        "https://github.com/hanyidreamer/hello-git/tree/master/src/main/plugin/plugin.dtd">
